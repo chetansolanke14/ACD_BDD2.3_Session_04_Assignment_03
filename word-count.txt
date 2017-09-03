@@ -1,0 +1,4 @@
+This is a hadoop,and
+hadooop is a big data
+hadoop is a bigdata technology
+This is a program of wordcount
